@@ -1,4 +1,4 @@
-const server_base_url = 'https://check-cart-for-dropship-vendor-ae5cb0c428bb.herokuapp.com/'; // Replace with your server URL
+const server_base_url = 'https://check-cart-for-dropship-vendor-ae5cb0c428bb.herokuapp.com'; // Replace with your server URL
   
   // List of drop-ship vendors
 
